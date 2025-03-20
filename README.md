@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 💻 Tech Stack:
 HTML5 Java JavaScript Octave Firebase Google Cloud Anaconda Bootstrap NodeJS React Firebase Adobe XD Canva Keras Matplotlib NumPy Pandas PyTorch scikit-learn TensorFlow GitHub Arduino Postman
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
