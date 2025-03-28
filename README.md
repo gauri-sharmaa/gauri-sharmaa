@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   
 
 
-</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+</p>
 
 <br>
 <br>
