@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Undergraduate at the Georgia Institute of Technology in Computer Science, actively seeking internship roles for summer 2025. Proficient in Python and Java as well as web development fundamentals, with a keen interest in the interdisciplinary applications of machine learning. Previously gained computer science research experience in audio-textual sentiment analysis recognized at the AP MENA Research Forum in Dubai. Currently participating in hackathons and developing skills in financial and investment literacy for algorithmic trading applications. Commended academic achiever.
+
+Passionate about out-of-the-box learning, blue sky thinking, and the intricacies of the human learning system. Continuously inspired by this complexity to pursue self-improvement and foster the evolution of the next big idea.
+
+📫 How to reach me: gaurisharma1686@gmail.com
+🤔 I’m looking to collaborate on ML/NLP Tasks!
+🌱 I’m currently learning Financial NLP!
+💬 Ask me about my earnings calls insights learning platform!
+🔭 I’m currently working in stealth for a fashion startup!
+
 <!--
 **gauri-sharmaa/gauri-sharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
