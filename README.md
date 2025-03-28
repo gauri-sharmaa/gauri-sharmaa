@@ -8,13 +8,15 @@ My current projects include exploring solutions for online harassment using Larg
 
 I'm passionate about creative, out-of-the-box thinking and deeply fascinated by the intricacies of human learning systems. This complexity continually motivates me to learn, grow, and contribute to shaping the next big idea!
 
+
 Let's connect!
 
 📫 How to reach me: gaurisharma1686@gmail.com \
 🤔 I’m looking to collaborate on ML/NLP Tasks! \
 🌱 I’m currently learning Financial NLP! \
 💬 Ask me about my earnings calls insights learning platform! \
-🔭 I’m currently working on a fashion startup at GT 🐝! 
+🔭 I’m currently working on a fashion startup at GT 🐝! \
+💬 I’m currently working on an AWS and Salesforce certification!
 
 <!--
 **gauri-sharmaa/gauri-sharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
