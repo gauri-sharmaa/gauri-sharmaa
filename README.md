@@ -8,7 +8,7 @@ Passionate about out-of-the-box learning, blue sky thinking, and the intricacies
 🤔 I’m looking to collaborate on ML/NLP Tasks! \
 🌱 I’m currently learning Financial NLP! \
 💬 Ask me about my earnings calls insights learning platform! \
-🔭 I’m currently working on a fashion startup! 
+🔭 I’m currently working on a fashion startup at GT 🐝! 
 
 <!--
 **gauri-sharmaa/gauri-sharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
