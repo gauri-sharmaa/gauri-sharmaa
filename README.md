@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech, excitedly looking for internship opportunities for summer 2025. I'm proficient in Python and Java, and I love bringing ideas to life through web development. My curiosity particularly shines when exploring the interdisciplinary possibilities of machine learning.
+Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech, excitedly looking for internship opportunities for summer 2025. I'm proficient in Python and Java, and I love bringing ideas to life through web development. 
 
 My past research involved audio-textual sentiment analysis, and was featured AP MENA Research Forum in Dubai. Currently, I'm diving into hackathons and sharpening my skills in financial literacy and algorithmic trading. I also work with GT's Social Dynamics and Wellbeing Lab (SocWeb - a lab associated with Interactive Computing at Georgia Tech) as a Research Assistant and GT's Financial Services Innovation Lab (FSIL) as a VIP Researcher! 
 
