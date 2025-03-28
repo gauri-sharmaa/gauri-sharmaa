@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-Undergraduate at the Georgia Institute of Technology in Computer Science, actively seeking internship roles for summer 2025. Proficient in Python and Java as well as web development fundamentals, with a keen interest in the interdisciplinary applications of machine learning. Previously gained computer science research experience in audio-textual sentiment analysis recognized at the AP MENA Research Forum in Dubai. Currently participating in hackathons and developing skills in financial and investment literacy for algorithmic trading applications. Commended academic achiever.
+Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech, excitedly looking for internship opportunities for summer 2025. I'm proficient in Python and Java, and I love bringing ideas to life through web development. My curiosity particularly shines when exploring the interdisciplinary possibilities of machine learning.
 
-Passionate about out-of-the-box learning, blue sky thinking, and the intricacies of the human learning system. Continuously inspired by this complexity to pursue self-improvement and foster the evolution of the next big idea.
+My past research involved audio-textual sentiment analysis, and was featured AP MENA Research Forum in Dubai. Currently, I'm diving into hackathons and sharpening my skills in financial literacy and algorithmic trading. I also work with GT's Social Dynamics and Wellbeing Lab (SocWeb - a lab associated with Interactive Computing at Georgia Tech) as a Research Assistant and GT's Financial Services Innovation Lab (FSIL) as a VIP Researcher! 
+
+My current projects include exploring solutions for online harassment using Large Language Models (LLMs) at SocWeb and developing robust benchmarks for financially and professionally structured texts at FSIL.
+
+I'm passionate about creative, out-of-the-box thinking and deeply fascinated by the intricacies of human learning systems. This complexity continually motivates me to learn, grow, and contribute to shaping the next big idea!
+
+Let's connect!
 
 📫 How to reach me: gaurisharma1686@gmail.com \
 🤔 I’m looking to collaborate on ML/NLP Tasks! \
