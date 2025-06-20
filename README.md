@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech, excitedly looking for internship opportunities for summer 2025. I'm proficient in Python and Java, and I love bringing ideas to life through web development. 
+Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech. I'm proficient in Python and Java, and I love bringing ideas to life through web development. 
 
-My past research involved audio-textual sentiment analysis, and was featured AP MENA Research Forum in Dubai. Currently, I'm diving into hackathons and sharpening my skills in financial literacy and algorithmic trading. I also work with GT's Social Dynamics and Wellbeing Lab (SocWeb - a lab associated with Interactive Computing at Georgia Tech) as a Research Assistant and GT's Financial Services Innovation Lab (FSIL) as a VIP Researcher! 
-
-My current projects include exploring solutions for online harassment using Large Language Models (LLMs) at SocWeb and developing robust benchmarks for financially and professionally structured texts at FSIL.
+I currently work with GT's Social Dynamics and Wellbeing Lab (SocWeb - a lab associated with Interactive Computing at Georgia Tech) as a Research Assistant and GT's Financial Services Innovation Lab (FSIL) as a VIP Researcher! I contribute to opensource including Kubestellar, a Cloud Native Computing Foundation (CNCF) sandbox project that simplifies multi-cluster Kubernetes deployments and. I've been greatful to be selected as a Fusen Fellow for summer 2025, and am currently researching agentic cybersecurity as well as developing with MIT NANDA's web of agents @ MIT Media Lab. I also have a deep interest in AI and LLM safety, especially in the context of developing agentic architectures and protocols.
 
 I'm passionate about creative, out-of-the-box thinking and deeply fascinated by the intricacies of human learning systems. This complexity continually motivates me to learn, grow, and contribute to shaping the next big idea!
 
@@ -15,7 +13,7 @@ Let's connect!
 🤔 I’m looking to collaborate on ML/NLP Tasks! \
 🌱 I’m currently learning Financial NLP! \
 💬 Ask me about my earnings calls insights learning platform! \
-🔭 I’m currently working on a fashion startup at GT 🐝! \
+🔭 I’m currently working on a agentic cybersecurity startup at GT 🐝! \
 💬 I’m currently working on an AWS and Salesforce certification!
 
 <!--
