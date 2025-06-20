@@ -2,9 +2,12 @@
 
 Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech. I'm proficient in Python and Java, and I love bringing ideas to life through web development. 
 
-I currently work with GT's Social Dynamics and Wellbeing Lab (SocWeb - a lab associated with Interactive Computing at Georgia Tech) as a Research Assistant and GT's Financial Services Innovation Lab (FSIL) as a VIP Researcher! I contribute to opensource including Kubestellar, a Cloud Native Computing Foundation (CNCF) sandbox project that simplifies multi-cluster Kubernetes deployments and. I've been greatful to be selected as a Fusen Fellow for summer 2025, and am currently researching agentic cybersecurity as well as developing with MIT NANDA's web of agents @ MIT Media Lab. I also have a deep interest in AI and LLM safety, especially in the context of developing agentic architectures and protocols.
+I currently work with **Georgia Tech’s Social Dynamics and Wellbeing Lab (SocWeb)**—a lab affiliated with the School of Interactive Computing—as a **research assistant**, and with Georgia Tech’s **Financial Services Innovation Lab (FSIL) **as a **VIP researcher**. I actively contribute to open-source projects, including** IBM-backed Kubestellar**, a Cloud Native Computing Foundation (CNCF) sandbox project focused on simplifying multi-cluster Kubernetes deployments, as well as compliance-related work through the **OSCAL Compass initiative**.
 
-I'm passionate about creative, out-of-the-box thinking and deeply fascinated by the intricacies of human learning systems. This complexity continually motivates me to learn, grow, and contribute to shaping the next big idea!
+I’m honored to be selected as a **Fusen Fellow** for Summer 2025, where I’m conducting research on **agentic cybersecurity **and contributing to agentic security development in collaboration with MIT NANDA’s Web of Agents at the MIT Media Lab. I also have a strong interest in **AI and LLM safety**, particularly in the context of building agentic architectures and protocols that prioritize secure, ethical design.
+
+
+
 
 
 Let's connect!
@@ -13,8 +16,8 @@ Let's connect!
 🤔 I’m looking to collaborate on ML/NLP Tasks! \
 🌱 I’m currently learning Financial NLP! \
 💬 Ask me about my earnings calls insights learning platform! \
-🔭 I’m currently working on a agentic cybersecurity startup at GT 🐝! \
-💬 I’m currently working on an AWS and Salesforce certification!
+🔭 I’m currently working on an agentic cybersecurity startup at GT 🐝! \
+💬 I’m currently working on a AWS and Salesforce certification!
 
 <!--
 **gauri-sharmaa/gauri-sharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
