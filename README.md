@@ -2,7 +2,7 @@
 
 Hi there! I'm an undergraduate student studying Computer Science at Georgia Tech. I'm proficient in Python and Java, and I love bringing ideas to life through web development. 
 
-I currently work with **Georgia Tech’s Social Dynamics and Wellbeing Lab (SocWeb)**—a lab affiliated with the School of Interactive Computing—as a **research assistant**, and with Georgia Tech’s **Financial Services Innovation Lab (FSIL) **as a **VIP researcher**. I actively contribute to open-source projects, including** IBM-backed Kubestellar**, a Cloud Native Computing Foundation (CNCF) sandbox project focused on simplifying multi-cluster Kubernetes deployments, as well as compliance-related work through the **OSCAL Compass initiative**.
+I currently work with **Georgia Tech’s Social Dynamics and Wellbeing Lab (SocWeb)**—a lab affiliated with the School of Interactive Computing—as a **research assistant**, and with Georgia Tech’s **Financial Services Innovation Lab (FSIL) **as a **VIP researcher**. I actively contribute to open-source projects, including** IBM-backed Kubestellar**, a Cloud Native Computing Foundation (CNCF) sandbox project focused on simplifying multi-cluster Kubernetes deployments.
 
 I’m honored to be selected as a **Fusen Fellow** for Summer 2025, where I’m conducting research on **agentic cybersecurity**. I also have a strong interest in **AI and LLM safety**, particularly in the context of building agentic architectures and protocols that prioritize secure, ethical design.
 
