@@ -1,21 +1,21 @@
-# Hi, I'm Gauri
+# Hello!
 
-I'm a Computer Science student at Georgia Tech interested in machine learning, systems, and building things that are actually useful.
+I'm Gauri! I'm currently working on efficient inference research at Georgia Tech, and previously interned at AWS and IBM.
 
-Recently, I’ve been spending most of my time on efficient inference and financial ML, along with some low-latency systems work.
+Recently, I’ve been spending most of my time on methods of inference and financial ML, along with some low-latency systems work.
 
-I've worked on research at Georgia Tech, contributed to open-source through KubeStellar, and previously interned at AWS and IBM.
-
-Lately, I've been spending time on:
+I have dabbled in:
 
 - LLM routing and efficient inference
+
 - Financial ML
+
 - Low-latency systems
+
 - Open-source infrastructure
+
 - Building tools that make complex information easier to work with
 
-I mostly work in Python, Java, and C++, and I've also spent time with PyTorch, Kubernetes, AWS, and full-stack development.
+I mostly work in Python, Java, and C++, and I've also spent time with PyTorch, Kubernetes, AWS, and full-stack agentic development.
 
 I'm always down to chat about ML systems, interesting engineering problems, research, or anything you're building.
-
-**Reach me at:** gaurisharma1686@gmail.com
